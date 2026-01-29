@@ -1,0 +1,20 @@
+#.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# AWS credentials (GARANTIA EXTRA, NUNCA COLOQUE LÁ, MAS SE COLOCAR, ISSO BLOQUEIA)
+.aws/
+config
+credentials
+
+# OS specific files
+.DS_Store
+
+
+
